@@ -1,5 +1,4 @@
-# Next.JS-Documentation
-Basic Documentation of Next.JS with Notes
+# Next.JS-Documentation 📑🎓
 
 ## Introduction
 ### What is Next.JS ?
